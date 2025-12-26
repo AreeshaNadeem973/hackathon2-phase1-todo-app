@@ -1,0 +1,2 @@
+# Requirements
+# This file intentionally left empty as the project uses only Python standard library
