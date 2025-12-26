@@ -47,22 +47,30 @@ todo-app/
 │   └── spec files
 └── README.md
 
-##How to Run
-1.Open terminal in the project root folder.
-2.Run the application:
-python -m src.main
+----
 
-##Scope Limitations
-**Single-user application
-**In-memory data storage only
+## How to Run
+1. Open the terminal in the project root folder.
+2. Run the application:
+   ```bash
+   python -m src.main
 
-##Hackathon Compliance
-This project strictly follows the official Hackathon II Phase 1 guidelines, using Spec-Driven Development and limiting scope to the required console-based Todo application.
+----
 
-##GitHub Commands
+## Scope Limitations
+- Single-user application  
+- In-memory data storage only  
+
+---
+
+## Hackathon Compliance
+This project strictly follows the **official Hackathon II Phase 1 guidelines**, using Spec-Driven Development and limiting scope to the required console-based Todo application.
+
+-----
+
+## GitHub Commands
 After saving this file, run:
+```bash
 git add README.md
 git commit -m "Add Phase 1 README"
 git push -u origin master
-
-
