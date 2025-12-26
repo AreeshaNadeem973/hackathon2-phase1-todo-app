@@ -49,7 +49,7 @@ todo-app/
 
 ---
 
-## How to Run
+ ## Project Structure
 1.Open the terminal in the project root folder.
 2.Run the application:
 python -m src.main
