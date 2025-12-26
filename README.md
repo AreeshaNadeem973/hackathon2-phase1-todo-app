@@ -47,9 +47,8 @@ todo-app/
 │   └── spec files
 └── README.md
 
----
-
- ## Project Structure
-1.Open the terminal in the project root folder.
-2.Run the application:
-python -m src.main
+## How to Run
+1. Open the terminal in the project root folder.
+2. Run the application:
+   ```bash
+   python -m src.main
